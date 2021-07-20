@@ -8,3 +8,4 @@ Maker Media GmbH
 
 ***
 
+![Picture](https://github.com/MakeMagazinDE/Softswitch/blob/main/aufmacher.jpg)
